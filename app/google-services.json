@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "722955960491",
+    "firebase_url": "https://xogame-80e6e.firebaseio.com",
+    "project_id": "xogame-80e6e",
+    "storage_bucket": "xogame-80e6e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:722955960491:android:b438e180f536c06dec77ee",
+        "android_client_info": {
+          "package_name": "com.sharmajikeapps.xogame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "722955960491-v8s38unee1d907s1fj6dlb5qn4g6socg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqjxQpm4SEJlrweRjtRzZmPYuYCLQV1Jo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "722955960491-v8s38unee1d907s1fj6dlb5qn4g6socg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
